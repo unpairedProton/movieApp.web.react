@@ -1,7 +1,16 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
+import axios from "../utils/axios"
+
 
 const SideNav = () => {
+
+
+
+
+
+
+
   return (
     <div className=" side w-[20%] h-full shrink-0 bg-slate-800 p-4 ">
       <div className=" w-full flex flex-col gap-4 ml-4">
