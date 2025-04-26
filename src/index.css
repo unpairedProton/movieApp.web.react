@@ -2,3 +2,84 @@
 
 /* primary-#1F1E24
 secondary-#6556cd */
+
+
+::-webkit-scrollbar{
+    width: 5px;
+    /* height: 1700px; */
+}
+
+::-webkit-scrollbar-thumb{
+    background: white;
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover{
+    background: #6556cd;
+}
+/* ::-webkit-scrollbar-track{
+    background: green;
+    border-radius: 10px;
+} */
+
+/* ::-webkit-scrollbar-corner{
+    background: red;
+} */
+/*
+::-webkit-scrollbar-track:hover{
+    background: #1F1E24;
+}
+
+::-webkit-scrollbar-button{
+    background: #1F1E24;
+    border-radius: 10px;
+}
+::-webkit-scrollbar-button:hover{
+    background: #6556cd;
+}
+::-webkit-scrollbar-corner:hover{
+    background: #6556cd;
+}
+::-webkit-scrollbar-corner:active{
+    background: #6556cd;
+}
+::-webkit-scrollbar-button:vertical:decrement{
+    background: #1F1E24;
+}
+::-webkit-scrollbar-button:vertical:increment{
+    background: #1F1E24;
+}
+::-webkit-scrollbar-button:horizontal:decrement{
+    background: #1F1E24;
+}
+::-webkit-scrollbar-button:horizontal:increment{
+    background: #1F1E24;
+}
+::-webkit-scrollbar-thumb:vertical{
+    background: #6556cd;
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:horizontal{
+    background: #6556cd;
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:vertical:hover{
+    background: #6556cd;
+}
+::-webkit-scrollbar-thumb:horizontal:hover{
+    background: #6556cd;
+}
+::-webkit-scrollbar-thumb:vertical:active{
+    background: #6556cd;
+}
+::-webkit-scrollbar-thumb:horizontal:active{
+    background: #6556cd;
+}
+::-webkit-scrollbar-thumb:vertical:decrement{
+    background: #6556cd;
+}
+::-webkit-scrollbar-thumb:horizontal:decrement{
+    background: #6556cd;
+}
+::-webkit-scrollbar-thumb:vertical:increment{
+    background: #6556cd;
+} */
